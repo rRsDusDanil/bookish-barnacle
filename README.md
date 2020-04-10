@@ -1,3 +1,3 @@
 # bookish-barnacle
 mini-text-rpg write on python
-(current version 0.3.0)
+(current version 0.4.0)
